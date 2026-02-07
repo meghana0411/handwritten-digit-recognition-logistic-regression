@@ -39,6 +39,6 @@ algorithm.
 ## ⚙️ How to Run the Project
 
 1. Clone the repository:
-   ```bash
-git clone https://github.com/meghana0411/handwritten-digit-recognition-logistic-regression.git
+   ```bash git clone https://github.com/meghana0411/handwritten-digit-recognition-logistic-regression.git
+
 
