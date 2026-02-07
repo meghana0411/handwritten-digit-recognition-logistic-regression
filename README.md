@@ -40,4 +40,5 @@ algorithm.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/handwritten-digit-recognition-logistic-regression.git
+git clone https://github.com/meghana0411/handwritten-digit-recognition-logistic-regression.git
+
