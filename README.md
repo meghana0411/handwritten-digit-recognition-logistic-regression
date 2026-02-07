@@ -1,6 +1,3 @@
-# handwritten-digit-recognition-logistic-regression
-Handwritten digit recognition using logistic regression (MNIST)
-
 # Handwritten Digit Recognition using Logistic Regression
 
 This project demonstrates handwritten digit recognition using
